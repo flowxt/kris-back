@@ -1,7 +1,6 @@
-.tmp/
-.cache/
-.git/
-build/
-node_modules/
+node_modules
+.tmp
+.cache
 .env
-.env.*
+.git
+build
